@@ -4,6 +4,6 @@ This repository contains the code and analysis for our ELEC 6970 final project o
 
 ## Project Info
 
-- **Course:** ELEC 6970 – Quantum Information / Quantum Computing
+- **Course:** ELEC 6970 – Quantum Information and Computation
 - **Project:** Quantum Teleportation on IBM Quantum: Implementation and Fidelity Analysis
 - **Authors:** Ethan Cook, Sam Pratt, Yubin Xing
